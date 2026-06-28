@@ -56,6 +56,7 @@ while True:
         location = input("Which shelf do you want to remove products from? ")
         amount = int(input("How many products do you want to remove? "))
         remove_stock(location, amount)
+    
 
     elif choice == "4":
         show_total_stock()
@@ -69,5 +70,4 @@ while True:
 
     else:
         print("Invalid option. Please try again.")
-        
         
