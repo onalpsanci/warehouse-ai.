@@ -1,0 +1,22 @@
+{
+    "A1": {
+        "product": "Laptop",
+        "stock": 220
+    },
+    "A2": {
+        "product": "Keyboard",
+        "stock": 75
+    },
+    "B1": {
+        "product": "Mouse",
+        "stock": 43
+    },
+    "B2": {
+        "product": "Monitor",
+        "stock": 500
+    },
+    "C2": {
+        "product": "Tablet",
+        "stock": 220
+    }
+}
