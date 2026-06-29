@@ -1,7 +1,9 @@
 {
     "A1": {
-        "product": "Laptop",
-        "stock": 220
+        "product": "Gaming Laptop",
+        "stock": 245,
+        "price": 1350.0,
+        "min_stock": 40
     },
     "A2": {
         "product": "Keyboard",
@@ -9,7 +11,7 @@
     },
     "B1": {
         "product": "Mouse",
-        "stock": 43
+        "stock": 33
     },
     "B2": {
         "product": "Monitor",
@@ -18,5 +20,16 @@
     "C2": {
         "product": "Tablet",
         "stock": 220
+    },
+    "C3": {
+        "product": "Tablet",
+        "stock": 40,
+        "price": 300.0
+    },
+    "D1": {
+        "product": "Phone",
+        "stock": 15,
+        "price": 900.0,
+        "min_stock": 25
     }
 }

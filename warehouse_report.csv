@@ -1,0 +1,8 @@
+Shelf,Product,Stock,Price,Minimum Stock
+A1,Laptop,245,0,0
+A2,Keyboard,75,0,0
+B1,Mouse,33,0,0
+B2,Monitor,500,0,0
+C2,Tablet,220,0,0
+C3,Tablet,40,300.0,0
+D1,Phone,15,900.0,25
