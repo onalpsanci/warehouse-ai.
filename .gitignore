@@ -1,0 +1,10 @@
+# Generated files
+logs.txt
+warehouse_report.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS files
+.DS_Store
